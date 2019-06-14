@@ -1,3 +1,3 @@
 import statistics
-c=list(map(int,input().split()))
-print(statistics.median(c))
+t=list(map(int,input().split()))
+print(statistics.median(t))

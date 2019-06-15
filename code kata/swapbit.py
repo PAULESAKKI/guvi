@@ -1,5 +1,5 @@
-s,t=map(int,input().split())
-s=s^t
-t=s^t
-s=s^t
+f,g=map(int,input().split())
+f=f^g
+g=f^g
+f=f^g
 print(s,t)

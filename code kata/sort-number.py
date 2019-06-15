@@ -1,5 +1,5 @@
-x=input()
-y=input().split()
-y.sort()
-for i in y:
+f=input()
+g=input().split()
+g.sort()
+for i in g:
   print(int(i),end=' ')

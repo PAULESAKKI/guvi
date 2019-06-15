@@ -1,2 +1,2 @@
-le=input()
-print(len(le))
+count=input()
+print(len(count))

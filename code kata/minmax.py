@@ -1,3 +1,3 @@
-s=list(int(input()))
-s.sort()
-print(s[0],s[len(s)])
+s=int(input())
+t=list(map(int,input().split()))
+print(min(t),max(t))

@@ -1,4 +1,6 @@
 s=int(input())
-if((s/2)!=0):
+if(s%2!=0):
   t=s-1;
-print(t)
+  print(t)
+else:
+  print(s)
